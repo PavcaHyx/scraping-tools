@@ -7,7 +7,7 @@ I needed to distrubute the tools somehow among my teammates and therefore I crea
 
 The steps were following:
 * Paste required serial numbers into file Input_HPC.txt/Input_Dell.txt
-* Run HPC_1.exe/DELL.exe application
+* Run HPC_1.exe/Dell_1.2.exe application (in folder dist)
 * Have a look at output.txt. There should be information that were found on web pages for required serial numbres.  
 
 
